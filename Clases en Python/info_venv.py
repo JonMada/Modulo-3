@@ -1,0 +1,1 @@
+#Esta carpeta está almacena en un entorno virtual (virtual enviroment --> venv)
